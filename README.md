@@ -256,14 +256,14 @@ To provide precise data regarding the market size and growth potential for my so
 
 - Understanding market trends helps:
 
-1. **Identify My Audience**: Know who needs the software (e.g., students, teachers) and tailor it to their needs.
-2. **Build the Right Features**: Focus on what’s trending, like interactive or mobile-friendly tools, to stay relevant.
-3. **Stand Out**: Spot gaps in the market to make my software unique.
-4. **Price Smartly**: Use trends to decide if free or paid models work best.
-5. **Market Effectively**: Reach my audience where they already are, like social media or schools.
-6. **Form Partnerships**: Collaborate with schools or other platforms to grow.
-7. **Attract Investors**: Show how my software aligns with growing trends to secure funding.
-8. **Stay Compliant**: Keep up with education regulations to avoid issues.
-9. **Expand Globally**: Explore opportunities in regions with rising demand for EdTech.
-10. **Improve Continuously**: Use trends to refine your software based on user feedback.
+    1. **Identify My Audience**: Know who needs the software (e.g., students, teachers) and tailor it to their needs.
+    2. **Build the Right Features**: Focus on what’s trending, like interactive or mobile-friendly tools, to stay relevant.
+    3. **Stand Out**: Spot gaps in the market to make my software unique.
+    4. **Price Smartly**: Use trends to decide if free or paid models work best.
+    5. **Market Effectively**: Reach my audience where they already are, like social media or schools.
+    6. **Form Partnerships**: Collaborate with schools or other platforms to grow.
+    7. **Attract Investors**: Show how my software aligns with growing trends to secure funding.
+    8. **Stay Compliant**: Keep up with education regulations to avoid issues.
+    9. **Expand Globally**: Explore opportunities in regions with rising demand for EdTech.
+    10. **Improve Continuously**: Use trends to refine your software based on user feedback.
 
